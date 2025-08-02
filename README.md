@@ -23,12 +23,17 @@ Run the command: python calculator.py
 === Basic Calculator ===
 Welcome! This calculator performs basic arithmetic operations.
 Enter the first number: 10
+
 Enter the second number: 5
+
 Enter the operation (+, -, *, /): +
 
 10.0 + 5.0 = 15.0
 ### Assignment Requirements
 ✅ Asks user for two numbers
+
 ✅ Asks user for mathematical operation
+
 ✅ Performs calculation based on input
+
 ✅ Displays result in the format: number1 operation number2 = result
